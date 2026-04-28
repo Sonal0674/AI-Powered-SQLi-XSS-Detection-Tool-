@@ -1,4 +1,4 @@
-# 🔐 SQLi & XSS Payload Detection using Machine Learning
+# 🔐 AI-Powered SQLi & XSS Detection Tool 
 
 This project is a lightweight **Streamlit-based web application** that detects whether a given HTTP payload is **malicious** (e.g., SQL injection or Cross-site Scripting) or **benign** using a simple **Random Forest** machine learning model.
 
